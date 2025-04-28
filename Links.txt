@@ -1,0 +1,2 @@
+pre trained model link - https://drive.google.com/file/d/1lNcpAbdhMn7HTpPP0NUVlW4Qh-Wy9ZSp/view?usp=sharing 
+gpt link for explainations of codes = https://chatgpt.com/share/680e8ee4-87d4-8012-a62f-676f1ca0e74e { just type " can you repeat the explaination of the practical - #number" }
